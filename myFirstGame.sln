@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperTiled2Unity", "SuperTiled2Unity.csproj", "{cf872d86-4342-9f07-3e86-beee74545be7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{d6265cc6-4b0a-2dea-1edf-80f5d1ba450e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperTiled2UnityEditor", "SuperTiled2UnityEditor.csproj", "{9c3b3903-4751-d4c2-8b45-7e934faaebbf}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{cf872d86-4342-9f07-3e86-beee74545be7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cf872d86-4342-9f07-3e86-beee74545be7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d6265cc6-4b0a-2dea-1edf-80f5d1ba450e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d6265cc6-4b0a-2dea-1edf-80f5d1ba450e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9c3b3903-4751-d4c2-8b45-7e934faaebbf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9c3b3903-4751-d4c2-8b45-7e934faaebbf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
